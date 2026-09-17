@@ -1,6 +1,6 @@
 # StockFlow Database
 
-Projeto acadêmico desenvolvido durante meus estudos em Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie.
+Projeto acadêmico desenvolvido durante meus estudos.
 
 O objetivo é aplicar conceitos fundamentais de bancos de dados relacionais por meio da criação e manipulação de uma tabela de produtos.
 
